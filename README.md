@@ -22,6 +22,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/192938695-99fedc01-34d5-4d36-84df-5880e766ed0c.png)
 
 
+
+
+
+
+
 # Procedure :
 1. Construct frequency distribution for the data
 
@@ -38,6 +43,16 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Experiment :
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
+
+
+
+
+
+
+
+
+
+
 
 # Program :
 ```
